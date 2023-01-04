@@ -1,3 +1,6 @@
+
+Link to Dataset: https://ourworldindata.org/covid-deaths
+
 select *
 From Project2..CovidDeaths
 Where continent is not null
